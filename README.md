@@ -22,6 +22,10 @@
   - [프로세스 vs 스레드](OS/프로세스스레드.md)
   - [프로세스 주소 공간](OS/프로세스주소공간.md)
   - [인터럽트](OS/인터럽트.md)
+  - [시스템 콜](OS/시스템콜.md)
+  - [PCB & Context Switching](OS/PCB&CS.md)
+  - [IPC(Inter Process Communication)](OS/IPC.md)
+  - [CPU 스케줄링](OS/CPU스케줄링.md)
 
 <br>
 
