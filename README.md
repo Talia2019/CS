@@ -26,7 +26,7 @@
   - [PCB & Context Switching](OS/PCB&CS.md)
   - [IPC(Inter Process Communication)](OS/IPC.md)
   - [CPU 스케줄링](OS/CPU스케줄링.md)
-  - [데드락](OS/DeadLock.md)
+  - [데드락](OS/DeadLock&Starvation.md)
   - [Race Condition](OS/RaceCondition.md)
   - [세마포어 & 뮤텍스](OS/Semaphor&Mutex.md)
   - [페이징 & 세그먼테이션](OS/Paging&Segmentation)
