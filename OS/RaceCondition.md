@@ -85,11 +85,3 @@ Semaphore / Mutex로 해결
 > 프로세스가 커널모드에서 작업을 하는 경우 시간이 초과되어도 CPU 제어권이 다른 프로세스에게 넘어가지 않도록 함
 
 <br>
-
-## 6. Critical Section (임계 영역)
-
-> 보호되어야 하는 부분
-
-Critical Section에 접근하려면 각 프로세스의 code segment에 공유 데이터에 접근하는 코드를 사용
-
-<br>
