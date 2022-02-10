@@ -6,6 +6,8 @@
 
 <img src="https://t1.daumcdn.net/cfile/tistory/995EFF355B74179035">
 
+![image](https://t1.daumcdn.net/cfile/tistory/99F6363359FDDC9E1F)
+
 <br>
 
 #### 7계층을 나눈 이유
