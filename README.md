@@ -40,7 +40,7 @@
 
   - [OSI 7 계층](Network/OSI7)
   - [TCP 3 way handshake & 4 way handshake](Network/TCPhandshake)
-  - [TCP/IP 흐름제어 & 혼잡제어](Network/TCPIPControl)
+  - [TCP 흐름제어 & 혼잡제어](Network/TCPIPControl)
   - [UDP](Network/UDP)
   - [대칭키 & 공개키](Network/대칭키공개키)
 
