@@ -38,11 +38,11 @@
 
 - ## 📌 Network
 
-  - [OSI 7 계층](Network/OSI7)
-  - [TCP 3 way handshake & 4 way handshake](Network/TCPhandshake)
-  - [TCP 흐름제어 & 혼잡제어](Network/TCPIPControl)
-  - [TCP & UDP](Network/UDP)
-  - [대칭키 & 공개키](Network/대칭키공개키)
+  - [OSI 7 계층](Network/OSI7.md)
+  - [TCP 3 way handshake & 4 way handshake](Network/TCPhandshake.md)
+  - [TCP 흐름제어 & 혼잡제어](Network/TCPIPControl.md)
+  - [TCP & UDP](Network/UDP.md)
+  - [대칭키 & 공개키](Network/대칭키공개키.md)
   - [HTTP & HTTPS](Network/HTTP&HTTPS.md)
   - [TLS/SSL handshake](Network/TLS&SSL.md)
 
