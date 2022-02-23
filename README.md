@@ -44,7 +44,7 @@
   - [TCP & UDP](Network/UDP.md)
   - [대칭키 & 공개키](Network/대칭키공개키.md)
   - [HTTP & HTTPS](Network/HTTP&HTTPS.md)
-  - [TLS/SSL handshake](Network/TLS&SSL.md)
+  - [TLS/SSL handshake](Network/TSL&SSL.md)
   - [Load Balancing](Network/LoadBalancing.md)
   - [Blocking,Non-blocking & Synchronous,Asynchronous](Network/Blocking&NonBlocking.md)
 
