@@ -2,15 +2,6 @@
 
 <br>
 
-```
-동기/비동기는 우리가 일상 생활에서 많이 들을 수 있는 말이다.
-Blocking과 Synchronous, 그리고 Non-blocking과 Asysnchronous를
-서로 같은 개념이라고 착각하기 쉽다.
-각자 어떤 의미를 가지는지 간단하게 살펴보자
-```
-
-<br>
-
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fda50Yz%2Fbtq0Dsje4ZV%2FlGe8H8nZgdBdgFvo7IczS0%2Fimg.png">
 
 <br>
