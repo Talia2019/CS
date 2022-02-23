@@ -45,6 +45,16 @@
   - [대칭키 & 공개키](Network/대칭키공개키.md)
   - [HTTP & HTTPS](Network/HTTP&HTTPS.md)
   - [TLS/SSL handshake](Network/TLS&SSL.md)
+  - [Load Balancing](Network/LoadBalancing.md)
+  - [Blocking,Non-blocking & Synchronous,Asynchronous](Network/Blocking&NonBlocking.md)
+
+<!-- <br>
+
+- ## 📌 Artificial Intelligence
+
+  - [인공지능 기초](AI/AI기초.md)
+
+<br> -->
 
 <br>
 
